@@ -1,2 +1,2 @@
 # project_for_mvp 
-This Doc project is for Android MVP Framework
+This Doc is for Android MVP Framework
