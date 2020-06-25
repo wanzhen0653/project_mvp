@@ -1,2 +1,2 @@
 # project_for_mvp
-The Doc for the project is doing
+The Doc is for Android MVP Framework 
